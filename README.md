@@ -12,10 +12,10 @@ Run the code:
 
 # Controls 
 X: Stops the program    
-C: Clean the grid.  
-R: Randomizes the grid.  
-O: Steps through one time step (i.e., a rule iteration).  
-G: Steps through 100 time steps.  
-M: Allows the user to navigate through the grids with mousekeys.    
-P: Change grid parameters.   
+C: Clean the grid    
+R: Randomizes the grid   
+O: Steps through one time step (i.e., a rule iteration)  
+G: Steps through 100 time steps  
+M: Allows the user to navigate through the grids with mousekeys    
+P: Change grid parameters   
 F: Initialize the grid with a grid text file (see gliderGun.txt)    
