@@ -1,5 +1,5 @@
 # GameOfLife
-A C++ implementation of Conway's Game of Life with zero runtime dependencies.   
+A C++ implementation of Conway's Game of Life with zero runtime dependencies and a user interface.   
    
 ![demo](demo.gif)
 
